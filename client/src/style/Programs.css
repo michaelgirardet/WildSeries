@@ -1,0 +1,19 @@
+.movie-card {
+  background-color: #f9f5ff;
+  text-align: start;
+  border: solid #998fc7 1px;
+}
+figure {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 2em;
+}
+figcaption {
+  font-size: 2em;
+  font-weight: bold;
+}
+p {
+  margin: 1em;
+}
